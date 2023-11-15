@@ -33,5 +33,5 @@ Mínimo: struct TreeNode* encontrarMinimo(struct TreeNode* raiz)
 Máximo: struct TreeNode* encontrarMaximo(struct TreeNode* raiz)
 Liberação de Memória: void liberarArvore(struct TreeNode* raiz)
 
-#Testes
+# Testes
 No programa principal (main.c), foram realizados testes para assegurar o correto funcionamento de todas as operações implementadas. Os testes incluem inserção de valores, remoção de nós, buscas, percursos na árvore e a verificação dos valores mínimo e máximo.
